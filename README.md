@@ -1,4 +1,5 @@
 RAG-based Social Media Analytics App
+
 📌 Overview
 This project is a Retrieval-Augmented Generation (RAG) application built using Langflow and Gemini to analyze and provide insights on social media engagement metrics. The system enhances AI-generated responses by leveraging a small dataset containing engagement data like likes, shares, and comments.
 
